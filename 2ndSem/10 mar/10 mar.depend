@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1362907659 source:/home/prism/Desktop/10 mar/main.c
+	<stdio.h>
+	<string.h>
+

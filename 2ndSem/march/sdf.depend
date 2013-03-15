@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1362566171 source:/home/prism/Desktop/sdf/main.c
+	<stdio.h>
+	<ctype.h>
+
