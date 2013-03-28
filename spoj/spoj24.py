@@ -1,3 +1,4 @@
+#!/usr/bin/python3.2
 def main():
     while True:
         line = int(input())
